@@ -23,7 +23,9 @@ Ventajas de votaciones en blockchain:
 - Verificación del voto
 - Se evita falsificaciones
 - Aumenta la seguridad
-
+- Decentralized database voting
+- Se reduce la manipulación 
+- La información es inmutable, no se puede cambiar
 Proceso de ideación:
 - Se hace una valorización en cuanto a los requerimientos del proyecto
 - Se asignan los roles y tareas para cada miembro del equipo

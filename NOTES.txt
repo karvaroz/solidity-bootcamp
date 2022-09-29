@@ -1,0 +1,45 @@
+Titulo: Block-Elections
+
+Problemática a resolver:
+
+- La votación tradicional a menudo está sujeta a especulaciones sobre corrupción 
+y malas prácticas.
+
+- La mayoría de las elecciones requieren que los votantes se presenten físicamente 
+en un colegio electoral y emitan su voto en papel.
+
+- Una aplicación de votación Blockchain ofrece transparencia en términos de validación 
+de la precisión del seguimiento de los votos ingresados. 
+
+- En un sistema de votación electrónica basado en blockchain 
+de este tipo, las entradas se marcarían con la hora y 
+se cifrarían antes de protegerse con claves privadas.
+
+Ventajas de votaciones en blockchain:
+
+- Más transparencia
+- Minimiza errores de conteo de votos
+- Ahorro en costo de las votaciones
+- Verificación del voto
+- Se evita falsificaciones
+- Aumenta la seguridad
+
+Proceso de ideación:
+- Se hace una valorización en cuanto a los requerimientos del proyecto
+- Se asignan los roles y tareas para cada miembro del equipo
+- Acuerdo de fecha y encuentro para evaluar  el trabajo de cada miembro
+- Preparación del entregable y presentación final
+
+Roles:
+- Michelle Roblero
+- Victoria Geddes
+- Karina Vargas  
+
+Tecnología:
+- Remix IDLE
+- Solidity
+- Github
+- Google Meet
+
+
+Manual de Usuario

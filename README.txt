@@ -1,15 +1,8 @@
-<aside>
-📅 **FECHA Y MEDIO DE ENTREGA**
-**A partir del 4 de octubre y hasta el 10 de octubre a las 22:00 hrs. de la Ciudad de México, de manera individual, a través del curso de Solidity Bootcamp en la plataforma de Blockdemy.**
-👉 [https://academy.blockdemy.com/](https://academy.blockdemy.com/)
-
-</aside>
-
-### **Objetivo**
+**Objetivo**
 
 Desarrollar un contrato inteligente que permita generar votaciones, aplicando los conocimientos y habilidades adquiridas durante el Solidity Bootcamp  que resuelva una problemática detectada en su contexto profesional o social.
 
-### **Instrucciones para la elaboración del proyecto final**
+**Instrucciones para la elaboración del proyecto final**
 
 1. Creen un canal de comunicación por equipo en whatsapp, telegram, discord o la app de su preferencia.
 2. Desarrollen un contrato inteligente que permita generar y administrar votaciones, con las características indicadas en el apartado características del contrato que se encuentra más adelante.
@@ -24,13 +17,13 @@ Desarrollar un contrato inteligente que permita generar votaciones, aplicando lo
     
     
 
-### **Entregables**
+**Entregables**
 
 - Presentación en formato PDF
 - Enlace a su repositorio con su código documentado; en GitHub, GitLab o similar (incluirlo en la presentación)
 - Enlace a video donde presenten su proyecto y una demo de su votación. El video debe durar máximo 10 min y puede ser compartido desde Google drive, youtube, vimeo o similar, sólo recuerda que debes darnos permisos para poderlo visualizar.
 
-### **Características del contrato**
+**Características del contrato**
 
 Crear un contrato inteligente en Solidity que permita generar y administrar una votación entre varios candidatos.
 
@@ -41,11 +34,11 @@ Crear un contrato inteligente en Solidity que permita generar y administrar una 
 5. Una vez finalizada la votación se debe poder ver al ganador y mostrar la dirección del contrato inteligente.
 6. Una vez realizado el contrato, deberán desplegarlo en la red de prueba Goerli utilizando Metamask y Remix, 
 
-### **Presentación del proyecto**
+**Presentación del proyecto**
 
 El proyecto final deberá ser presentado en video, adicional a esto un máximo de 15 equipos tendrán la oportunidad de presentarlo el día 10 de octubre previo al cierre del oficial del bootcamp. 
 
-### Criterios de evaluación
+Criterios de evaluación
 
 - No cumple (0 pts)
 - Cumple deficientemente (1 pto)
